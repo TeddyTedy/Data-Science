@@ -1,3 +1,3 @@
 # Data-Science
 
-Hier stehen nur die Abgabe für das Data Science Studienfach
+Hier stehen nur die Abgabe für das Data Science Studienfach von Björn Bauer
