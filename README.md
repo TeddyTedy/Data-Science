@@ -19,10 +19,10 @@ Prüfung:
      - Erdbeben5
 
 - Notebook:
-     -DataScience Project Erdbeben ausgeführt
-         - beinhaltet das bereits ausgeführte Notebook
-     -DataScience Project Erdbeben
-         - beinhaltet das nicht ausgeführte Notebook
+     - DataScience Project Erdbeben ausgeführt
+      - beinhaltet das bereits ausgeführte Notebook
+     - DataScience Project Erdbeben
+      - beinhaltet das nicht ausgeführte Notebook
 
 - Data Catalog
     - Beinhaltet den Data Catalog zu den Daten
