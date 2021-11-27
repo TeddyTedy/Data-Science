@@ -26,3 +26,14 @@ Prüfung:
 
 - Data Catalog
     - Beinhaltet den Data Catalog zu den Daten
+
+- Benötigte Python Libs:
+     import pandas as pd
+     import matplotlib.pyplot as plt
+     import seaborn as sns
+     import numpy as np
+     import statistics
+     import warnings
+     from sympy import S, symbols, printing
+     from statsmodels.sandbox.stats.multicomp import multipletests
+     pd.options.mode.chained_assignment = None
